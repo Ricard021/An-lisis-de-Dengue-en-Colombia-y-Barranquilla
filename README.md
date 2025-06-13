@@ -10,7 +10,12 @@
   </ul>
 
   <h2>📄 Presentación</h2>
-  [📥 Ver presentación en PDF](./Presentación_AnálisisDengue.pdf)
+  <p align="center">
+  <a href="./Presentación_AnálisisDengue.pdf" target="_blank">
+    📥 Ver presentación en PDF
+  </a>
+</p>
+
 
   <h2>🔧 Tecnologías</h2>
   <ul>
