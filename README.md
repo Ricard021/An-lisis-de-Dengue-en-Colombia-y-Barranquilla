@@ -10,7 +10,7 @@
   </ul>
 
   <h2>📄 Presentación</h2>
-  <p><a href="Presentación_AnálisisDengue.pdf" target="_blank">📥 Ver presentación en PDF</a></p>
+  <p><a href="./Presentación_AnálisisDengue.pdf" target="_blank">📥 Ver presentación en PDF</a></p>
 
   <h2>🔧 Tecnologías</h2>
   <ul>
