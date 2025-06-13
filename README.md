@@ -10,7 +10,7 @@
   </ul>
 
   <h2>📄 Presentación</h2>
-  <p><a href="./Presentación_AnálisisDengue.pdf" target="_blank">📥 Ver presentación en PDF</a></p>
+  [📥 Ver presentación en PDF](./Presentación_AnálisisDengue.pdf)
 
   <h2>🔧 Tecnologías</h2>
   <ul>
@@ -21,6 +21,6 @@
   </p>
 
   <hr>
-  <p><small>Licencia MIT. Proyecto académico para el análisis de datos con impacto social.</small></p>
+  <p><small>Proyecto académico para el análisis de datos con impacto social.</small></p>
 </body>
 </html>
